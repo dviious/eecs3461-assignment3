@@ -141,6 +141,16 @@ a.article:hover {
     color: #fff !important;
 }
 
+
+.fab{
+    padding: 25px;
+    font-size: 30px;
+    width: 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
 /* ---------------------------------------------------
     CONTENT STYLE
 ----------------------------------------------------- */
